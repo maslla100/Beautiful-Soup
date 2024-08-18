@@ -39,7 +39,7 @@ This analysis involves scraping and analyzing Mars weather data from a table on 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/maslla100/Beautiful-Soup
    ```
 2. **Navigate to the Project Directory**:
    ```bash
